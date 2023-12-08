@@ -13,8 +13,22 @@ Vamos codificar juntos e construir algo incrível! ✨
 
 
 
+
 <a href= "https://www.instagram.com/mae_autentica/">
 <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="30" align="left">
   <a href= "https://www.linkedin.com/in/amanda-torres-31109129b/">
 <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" align="left">
 
+
+
+
+:wink:
+
+
+
+
+
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=4mandaTorres)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mandaTorres)](https://github.com/anuraghazra/github-readme-stats)
